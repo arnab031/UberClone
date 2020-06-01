@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UberClone</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">mh75bpDP5HE56mtYhrWb7DtTtpwOGSOWcANDyFoT</string>
+    <string name="back4app_client_key">NHc6JSKIIOCdtNl2IBPF2fh8c7XSbo9G9haTZJeo</string>
+    <string name="title_activity_passenger">Passenger</string>
+</resources>
